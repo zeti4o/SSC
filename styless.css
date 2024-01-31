@@ -1,0 +1,36 @@
+body{
+	background-color: LemonChiffon;
+	/*margin: 30px;*/
+}
+header{
+	background-color: teal;
+	width: 100%;
+	padding: 10px;
+}
+h1{
+	font-family: arial;
+	text-align: center;
+	color: cadetblue;
+
+}
+h2{
+	color:cadetblue;
+	font-family: arial;
+}
+.tm{
+	color: cadetblue;
+	font-size: 32px;
+}
+.tg{
+	color:cadetblue;
+}
+
+.cabeçalho{
+	margin: 0 auto;
+	padding: 10px;
+}
+
+.nav{
+	margin: 0;
+	padding: 0;
+}
