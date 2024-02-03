@@ -1,7 +1,3 @@
-body{
-	background-color: LemonChiffon;
-	margin: 30px;
-}
 ul{
 	
 	font-family: arial;
@@ -31,23 +27,43 @@ h1{
 	font-family: arial;
 	text-align: center;
 	color: cadetblue;
+	font-size: 32px;
 
 }
+#acompanhante{
+	font-family: arial;
+	text-align: center;
+	color: cadetblue;
+	font-size: 28px;
+}
+
 .textos{
 	color:cadetblue;
 	font-family: arial;
+	font-size: 16px;
 }
-.titulos
+
 .pai{
 	
 	display: flex;
 	flex-wrap: wrap;
 }
-div{
+.cat{
+	font-family: arial;
+	color: #65cca9;
+	background-color: #008080;
+	padding: 30px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.mindiv{
 	text-align: center;
 	max-width: 1000px;
-    height: 100px;
     margin: 10px;
     margin-bottom: 10px;
 }
 
+.gerdiv{
+	margin: 20px;
+}
